@@ -53,6 +53,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Data\FriendDataService.cs" />
+    <Compile Include="Data\IFriendDataService.cs" />
+    <Compile Include="ViewModel\MainViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -92,6 +95,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FriendOrganizer.Domain\FriendOrganizer.Domain.csproj">
+      <Project>{5af3205f-63f2-489d-a56b-9f66e4be16f0}</Project>
+      <Name>FriendOrganizer.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
