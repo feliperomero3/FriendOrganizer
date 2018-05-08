@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendOrganizer.UI", "FriendOrganizer.UI\FriendOrganizer.UI.csproj", "{A299B4FD-F7F4-447D-A90E-682A36EA9F74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendOrganizer.Data", "FriendOrganizer.Data\FriendOrganizer.Data.csproj", "{44FC03CD-DDE1-40F6-B7EA-4DBAEF220FBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A299B4FD-F7F4-447D-A90E-682A36EA9F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A299B4FD-F7F4-447D-A90E-682A36EA9F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A299B4FD-F7F4-447D-A90E-682A36EA9F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FC03CD-DDE1-40F6-B7EA-4DBAEF220FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FC03CD-DDE1-40F6-B7EA-4DBAEF220FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FC03CD-DDE1-40F6-B7EA-4DBAEF220FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FC03CD-DDE1-40F6-B7EA-4DBAEF220FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
