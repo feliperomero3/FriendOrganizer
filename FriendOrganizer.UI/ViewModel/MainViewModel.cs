@@ -1,8 +1,6 @@
-﻿using System.Collections.ObjectModel;
-using FriendOrganizer.Domain;
+﻿using FriendOrganizer.Domain;
 using FriendOrganizer.UI.Data;
-using System.ComponentModel;
-using System.Runtime.CompilerServices;
+using System.Collections.ObjectModel;
 
 namespace FriendOrganizer.UI.ViewModel
 {
