@@ -1,4 +1,4 @@
-### Friend Organizer
+# Friend Organizer
 
 Proyecto basado en el curso de Pluralsight
 **Building an Enterprise App with WPF, MVVM, and Entity Framework Code First by Thomas Claudius Huber**
