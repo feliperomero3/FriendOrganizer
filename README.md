@@ -5,10 +5,10 @@ Proyecto basado en el curso de Pluralsight
 
 Muestra como organizar el código de tal manera que sea
 reusable y descomponible siguiendo las recomendaciones
-del patrón Model View ViewModel.
+del patrón Model View ViewModel o MVVM.
 
 ## Requisitos
 
-- Microsoft .NET Framework 4.5 o superior
-- Microsoft Visual Studio 2013 o superior
-- Microsoft SQL Server LocalDb v11 o superior
+- .NET Framework 4.5 o superior
+- Visual Studio 2013 o superior
+- SQL Server LocalDb v11 o superior
