@@ -1,7 +1,7 @@
-﻿
-using Autofac;
+﻿using Autofac;
 using FriendOrganizer.UI.Data;
 using FriendOrganizer.UI.ViewModel;
+
 namespace FriendOrganizer.UI.Startup
 {
     public class Bootstrapper

@@ -3,7 +3,7 @@ using System.Windows;
 
 namespace FriendOrganizer.UI
 {
-    public partial class MainWindow : Window
+    public partial class MainWindow
     {
         private MainViewModel _viewModel;
         
